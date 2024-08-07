@@ -28,15 +28,15 @@ description: > # this means to ignore newlines until "Language & timezone"
 ## => Language and Timezone
 ##############################
 lang: zh # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+timezone: CN # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
 ##############################
 author:
   type      : organization # "person" (default), "organization"
-  name      : Your Name
-  url       :
+  name      : Robofans
+  url       : robofans.org
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     :
