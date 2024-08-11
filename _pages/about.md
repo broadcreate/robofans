@@ -21,8 +21,6 @@ RoboFans.org，作为重庆交通大学 RoboMaster 参赛队的官方在线平�
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
-
 ## RoboFans 特色
 
 - 技术创新引领者：RoboFans 始终站在机器人技术的最前沿，不断探索并应用最新的传感器技术、人工智能算法、机器视觉与深度学习等高科技成果。他们自主研发的多项核心技术，如高精度运动控制算法、智能环境感知系统以及复杂任务规划能力，使得其机器人产品在精度、灵活性及智能化水平上均处于行业领先地位。

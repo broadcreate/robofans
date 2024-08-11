@@ -6,8 +6,8 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+    - label: "<i class='fas fa-download'></i> 关于"
+      url: "/about/"
 excerpt: >
   RoboFans 机器人组以其技术创新、多元化应用、人机协作、可持续发展及开放合作的特色，在机器人领域树立了鲜明的品牌形象，不断推动行业向前发展。<br />
   <small><a href="https://www.robomaster.com/zh-CN">RoboMaster</a></small>
