@@ -33,13 +33,13 @@ feature_row:
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
- - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/mm-free-feature.png
     alt: "运维管理"
     title: "运维管理"
     excerpt: "运维管理负责机器人从设计到比赛的全生命周期管理，包括团队协作、进度控制、故障排查与修复等。亮点在于高效的团队协作机制、精细化的项目管理以及快速的应急响应能力，确保机器人在比赛中始终保持最佳状态。"
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"  
+    btn_label: "Learn more"
 ---
 
 {% include feature_row %}
