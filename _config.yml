@@ -21,7 +21,7 @@ title: "RoboFans"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "ROBOFANS "
-description: "An amazing website."
+description: "RoboFans.org，作为重庆交通大学RoboMaster参赛队的官方在线平台，汇聚了该校机器人爱好者与精英学子的智慧与激情。我们致力于打造一个集技术交流、赛事资讯、团队风采展示及创新思想碰撞于一体的综合性社区。在这里，你可以深入了解RoboMaster这一国际顶尖的机器人竞技赛事，追踪重庆交通大学参赛队的最新动态与辉煌战绩，参与线上线下的技术研讨会，与志同道合的伙伴们共同探索机器人技术的无限可能。RoboFans.org不仅是参赛队员的坚强后盾，更是连接梦想与现实的桥梁，让每一位热爱机器人技术的你，都能在这里找到属于自己的舞台，共同推动智能科技的进步与发展。"
 url: https://www.robofans.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
