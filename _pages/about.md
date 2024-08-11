@@ -19,7 +19,7 @@ toc: true
 
 RoboFans.org，作为重庆交通大学 RoboMaster 参赛队的官方在线平台，汇聚了该校机器人爱好者与精英学子的智慧与激情。我们致力于打造一个集技术交流、赛事资讯、团队风采展示及创新思想碰撞于一体的综合性社区。在这里，你可以深入了解 RoboMaster 这一国际顶尖的机器人竞技赛事，追踪重庆交通大学参赛队的最新动态与辉煌战绩，参与线上线下的技术研讨会，与志同道合的伙伴们共同探索机器人技术的无限可能。RoboFans.org 不仅是参赛队员的坚强后盾，更是连接梦想与现实的桥梁，让每一位热爱机器人技术的你，都能在这里找到属于自己的舞台，共同推动智能科技的进步与发展。
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+{% include gallery id="layouts_gallery" caption="Layouts `splash`, `single`, and `archive`." %}
 
 ## RoboFans 特色
 
