@@ -1,5 +1,6 @@
 ---
 title: "Post: Teaser Image with OpenGraph Override"
+hidden: true
 header:
   teaser: /assets/images/page-header-teaser.png
   og_image: /assets/images/page-header-og-image.png

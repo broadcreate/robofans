@@ -1,5 +1,6 @@
 ---
 title: "Layout: Read Time Enabled"
+hidden: true
 read_time: true
 tags:
   - read time

@@ -1,5 +1,6 @@
 ---
 title: "Layout: Post Date Disabled"
+hidden: true
 show_date: false
 tags:
   - post date

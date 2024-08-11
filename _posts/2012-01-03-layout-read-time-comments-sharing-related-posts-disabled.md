@@ -1,5 +1,6 @@
 ---
 title: "Layout: Reading Time, Comments, Social Sharing Links, and Related Posts Disabled"
+hidden: true
 read_time: false
 comments: false
 share: false

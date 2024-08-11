@@ -1,5 +1,6 @@
 ---
 title: "Layout: Code Excerpt (Generated)"
+hidden: true
 categories:
   - Layout
   - Uncategorized

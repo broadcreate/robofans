@@ -1,7 +1,6 @@
 ---
 title: "Layout: Header Image (Vertical)"
 hidden: true
-hidden: true
 header:
   image: /assets/images/unsplash-image-6.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"

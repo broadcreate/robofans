@@ -1,5 +1,6 @@
 ---
 title: "Post: Future Date"
+hidden: true
 date: 9999-12-31
 categories:
   - Post

@@ -1,5 +1,6 @@
 ---
 title: "Post: Image (Linked with Caption)"
+hidden: true
 categories:
   - Post Formats
 tags:

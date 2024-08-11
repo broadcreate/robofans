@@ -1,5 +1,6 @@
 ---
 title: "Layout: Comments Enabled"
+hidden: true
 comments: true
 categories:
   - Layout

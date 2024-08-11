@@ -1,5 +1,6 @@
 ---
 title: "Layout: Author Sidebar Disabled"
+hidden: true
 excerpt: "A post to test disabling author sidebar."
 author_profile: false
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Layout: Related Posts Enabled"
+hidden: true
 related: true
 categories:
   - Layout
