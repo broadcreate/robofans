@@ -23,18 +23,13 @@ RoboFans.org，作为重庆交通大学 RoboMaster 参赛队的官方在线平�
 
 [Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
 
-## Notable Features
+## RoboFans 特色
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), [giscus](https://giscus.app/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Czech, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Kiswahili, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+- 技术创新引领者：RoboFans 始终站在机器人技术的最前沿，不断探索并应用最新的传感器技术、人工智能算法、机器视觉与深度学习等高科技成果。他们自主研发的多项核心技术，如高精度运动控制算法、智能环境感知系统以及复杂任务规划能力，使得其机器人产品在精度、灵活性及智能化水平上均处于行业领先地位。
+- 多元化应用场景：RoboFans 机器人组致力于将机器人技术融入各行各业，从工业制造、医疗健康、教育娱乐到服务机器人等多个领域，都能看到他们产品的身影。无论是生产线上的自动化作业，还是医院中的辅助手术、患者护理，亦或是家庭中的智能陪伴，RoboFans 都能提供量身定制的解决方案，满足不同场景下的多样化需求。
+- 强调人机协作：在 RoboFans 的设计理念中，人机协作是核心之一。他们开发的机器人不仅具备高度自主性，还能与人类无缝配合，共同完成任务。通过优化人机交互界面和增强机器人的社交能力，RoboFans 的机器人能够更好地理解人类意图，提供更为贴心、高效的服务体验。
+- 可持续发展与环保：RoboFans 机器人组深知可持续发展的重要性，因此在产品研发和生产过程中，始终坚持绿色、低碳、环保的原则。他们积极采用节能材料，优化能源利用效率，并致力于开发能够参与环保任务的机器人，如垃圾分类机器人、环境监测机器人等，为地球环境的保护贡献一份力量。
+- 开放合作与社区建设：RoboFans 重视与国内外科研机构、高校及企业的交流合作，通过共建实验室、联合研发项目等方式，推动机器人技术的共同进步。同时，他们还积极构建机器人爱好者社区，分享技术成果，举办比赛和活动，激发更多人对机器人技术的兴趣和热情，为行业的持续发展培养后备力量。
 
 ## Demo Pages
 
