@@ -13,7 +13,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
+last_modified_at: 2024-08-11T11:59:26-04:00
 toc: true
 ---
 
@@ -32,16 +32,6 @@ RoboFans.org，作为重庆交通大学 RoboMaster 参赛队的官方在线平�
 - 开放合作与社区建设：RoboFans 重视与国内外科研机构、高校及企业的交流合作，通过共建实验室、联合研发项目等方式，推动机器人技术的共同进步。同时，他们还积极构建机器人爱好者社区，分享技术成果，举办比赛和活动，激发更多人对机器人技术的兴趣和热情，为行业的持续发展培养后备力量。
 
 ## Demo Pages
-
-| Name                                            | Description                                                   |
-| ----------------------------------------------- | ------------------------------------------------------------- |
-| [Post with Header Image][header-image-post]     | A post with a large header image.                             |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post]         | Post displaying highlighted code.                             |
-| [Post with a Gallery][gallery-post]             | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection]     | Single page from a collection.                                |
-| [Categories Archive][categories-archive]        | Posts grouped by category.                                    |
-| [Tags Archive][tags-archive]                    | Posts grouped by tag.                                         |
 
 For even more demo pages check the [posts archive][year-archive].
 
@@ -62,4 +52,4 @@ For even more demo pages check the [posts archive][year-archive].
 
 ---
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+RoboFans 机器人组以其技术创新、多元化应用、人机协作、可持续发展及开放合作的特色，在机器人领域树立了鲜明的品牌形象，不断推动行业向前发展。
