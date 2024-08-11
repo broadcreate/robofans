@@ -1,5 +1,6 @@
 ---
 title: "Post: Image (with Link)"
+hidden: true
 categories:
   - Post Formats
 tags:

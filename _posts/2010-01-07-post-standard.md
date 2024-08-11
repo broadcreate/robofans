@@ -1,6 +1,7 @@
 ---
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
+hidden: true
 categories:
   - Post Formats
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Post: Overlay Image with OpenGraph Override"
+hidden: true
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   og_image: /assets/images/page-header-og-image.png

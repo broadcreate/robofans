@@ -1,5 +1,6 @@
 ---
 title: "Layout: Sidebar with Navigation List"
+hidden: true
 excerpt: "A post with a sidebar navigation list."
 author_profile: false
 sidebar:

@@ -1,5 +1,6 @@
 ---
 title: "Edge Case: Invalid syntax highlight languages"
+hidden: true
 categories:
   - Edge Case
 tags:

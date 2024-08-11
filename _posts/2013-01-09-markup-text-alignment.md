@@ -1,5 +1,6 @@
 ---
 title: "Markup: Text Alignment"
+hidden: true
 categories:
   - Markup
 tags:
