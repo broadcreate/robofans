@@ -1,16 +1,15 @@
 ---
 title: "RoboMaster赛事概览：全球科技爱好者的盛宴"
-excerpt_separator: "<!--more-->"
-hidden: true
 categories:
-  - Post Formats
+  - 赛事
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - 赛事
+  - 综述
 ---
 
 RoboMaster 机甲大师高校系列赛是由全球领先的无人机和机器人技术公司——**大疆创新**（DJI）主办的一项国际性机器人赛事。自 2015 年首届赛事举办以来，RoboMaster 迅速成长为全球科技爱好者、工程师、和学生展示才华的舞台。这项赛事的初衷是为大学生提供一个高水平的科技竞技平台，鼓励他们将课堂知识与实际操作相结合，培养动手能力、团队合作精神以及创新意识。
+
+<!--more-->
 
 **主办方与历史背景：**
 
