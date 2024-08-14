@@ -26,8 +26,7 @@ jobs:
             pip install --upgrade spark_ai_python
             if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: execute py script 
-        env:
+      - name: execute py script       
                
         run: |
           SPARKAI_APP_ID = ${{ secrets.SPARKAI_APP_ID }}  
