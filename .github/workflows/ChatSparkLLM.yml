@@ -26,10 +26,10 @@ jobs:
             pip install --upgrade spark_ai_python
             if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: execute py script # run file
+      - name: execute py script # run file        
         run: |
           python ChatSpark.py
-          env:
-            SPARKAI_APP_ID = ${{ secrets.SPARKAI_APP_ID }}  
-            SPARKAI_API_SECRET = ${{ secrets.SPARKAI_API_SECRET }}  
-            SPARKAI_API_KEY = ${{ secrets.SPARKAI_API_KEY }}  
+        env:
+         SPARKAI_APP_ID = ${{ secrets.SPARKAI_APP_ID }}  
+         SPARKAI_API_SECRET = ${{ secrets.SPARKAI_API_SECRET }}  
+         SPARKAI_API_KEY = ${{ secrets.SPARKAI_API_KEY }}    
