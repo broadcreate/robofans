@@ -26,4 +26,10 @@ if __name__ == '__main__':
     )]
     handler = ChunkPrintHandler()
     a = spark.generate([messages], callbacks=[handler])
-    print(a)
+    # 假设 a 是一个对象或数据结构
+    generations = a.generations  # 获取生成的列表
+    # 由于 generations 是一个列表，我们可以访问它的第一个元素
+    first_generation = generations[0][0]  # 访问第一个 ChatGeneration 对象
+    generated_text = first_generation.text  # 提取生成的文本
+    print(generated_text)  # 输出生成的文本
+
