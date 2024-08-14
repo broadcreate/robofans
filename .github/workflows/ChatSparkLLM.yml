@@ -27,12 +27,13 @@ jobs:
             if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: execute py script 
-      
+        env:
+               
         run: |
+          SPARKAI_APP_ID = ${{ secrets.SPARKAI_APP_ID }}  
+          SPARKAI_API_SECRET = ${{ secrets.SPARKAI_API_SECRET }}  
+          SPARKAI_API_KEY = ${{ secrets.SPARKAI_API_KEY }} 
           python ChatSpark.py
-          env:
-             SPARKAI_APP_ID = '${{ secrets.SPARKAI_APP_ID }}'  
-             SPARKAI_API_SECRET = '${{ secrets.SPARKAI_API_SECRET }}'  
-             SPARKAI_API_KEY = '${{ secrets.SPARKAI_API_KEY }}'       
+              
 
          
