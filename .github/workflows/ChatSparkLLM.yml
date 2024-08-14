@@ -29,3 +29,7 @@ jobs:
       - name: execute py script # run file
         run: |
           python ChatSpark.py
+          env:
+            SPARKAI_APP_ID = ${{ secrets.SPARKAI_APP_ID }}  
+            SPARKAI_API_SECRET = ${{ secrets.SPARKAI_API_SECRET }}  
+            SPARKAI_API_KEY = ${{ secrets.SPARKAI_API_KEY }}  
