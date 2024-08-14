@@ -1,4 +1,4 @@
-name: ChatSparkLLM
+name: ChatSpar
 
 on:
   push:
