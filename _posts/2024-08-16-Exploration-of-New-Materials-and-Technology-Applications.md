@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 创新设计与技术突破 
-  - technology  
+  - 技术  
 ---  
 
 # 新型材料与技术应用探索：以Robomaster竞赛为例

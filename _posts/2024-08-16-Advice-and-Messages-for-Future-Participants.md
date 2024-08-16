@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 总结与展望 
-  - technology  
+  - 技术
 ---  
 
 # RoboMaster竞赛：激发科技热情，塑造未来精英

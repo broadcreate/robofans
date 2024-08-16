@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 引言 
-  - technology  
+  - 技术
 ---  
 
 # RoboMaster: 人工智能与机器人的较量

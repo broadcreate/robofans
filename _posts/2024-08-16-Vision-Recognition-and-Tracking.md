@@ -4,7 +4,7 @@ categories:
   - 算法设计  
 tags: 
   - 核心算法设计与实现 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster:视觉识别与追踪技术在竞赛中的应用

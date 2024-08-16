@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 附录 
-  - technology  
+  - 技术  
 ---  
 
 RoboMaster竞赛是一个机器人对抗比赛，电控设计是其中的重要部分。以下是一些关于RoboMaster竞赛电控设计的资源推荐：

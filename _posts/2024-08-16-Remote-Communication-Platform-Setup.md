@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 通信与协作 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster竞赛远程通信平台搭建

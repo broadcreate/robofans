@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 电控系统基础 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster竞赛中的电源保护与故障检测

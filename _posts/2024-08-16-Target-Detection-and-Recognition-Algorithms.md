@@ -4,7 +4,7 @@ categories:
   - 算法设计  
 tags: 
   - 核心算法设计与实现 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster:目标检测与识别算法

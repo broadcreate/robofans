@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 总结与展望 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster竞赛：机械设计的关键作用

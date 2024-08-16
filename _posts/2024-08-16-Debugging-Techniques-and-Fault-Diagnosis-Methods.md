@@ -4,7 +4,7 @@ categories:
   - 算法设计  
 tags: 
   - 性能优化与调试技巧 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster竞赛中的调试技巧与故障排查方法

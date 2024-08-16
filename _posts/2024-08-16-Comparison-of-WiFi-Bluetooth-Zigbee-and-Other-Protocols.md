@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 通信与协作 
-  - technology  
+  - 技术
 ---  
 
 # RoboMaster竞赛：无线通信协议大比拼

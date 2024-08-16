@@ -4,7 +4,7 @@ categories:
   - 算法设计  
 tags: 
   - 核心算法设计与实现 
-  - technology  
+  - 技术  
 ---  
 
 # 动态目标预测与提前量计算在RoboMaster竞赛中的应用

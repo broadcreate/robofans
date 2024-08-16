@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 创新设计与技术突破 
-  - technology  
+  - 技术  
 ---  
 
 # 智能化与自主化趋势下的机械设计

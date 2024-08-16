@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 传感器与数据采集 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster竞赛：机器人的高科技盛宴

@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 通信与协作 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster竞赛：信息共享与决策制定

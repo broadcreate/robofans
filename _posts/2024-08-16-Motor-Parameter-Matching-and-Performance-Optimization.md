@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 电机驱动与控制 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster竞赛：电机参数匹配与性能优化

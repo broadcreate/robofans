@@ -4,7 +4,7 @@ categories:
   - 算法设计  
 tags: 
   - 核心算法设计与实现 
-  - technology  
+  - 技术  
 ---  
 
 # 团队协同策略与通信协议在RoboMaster竞赛中的重要性

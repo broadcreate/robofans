@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 总结与展望 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster:面临的挑战与未来发展趋势

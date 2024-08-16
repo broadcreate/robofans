@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 引言 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster竞赛：电控设计的重要性

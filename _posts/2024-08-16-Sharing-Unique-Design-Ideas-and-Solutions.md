@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 创新设计与技术突破 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster: 独特设计思路与解决方案分享

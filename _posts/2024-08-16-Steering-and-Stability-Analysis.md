@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 机器人平台设计 
-  - technology  
+  - 技术  
 ---  
 
 # 转向与稳定性分析在RoboMaster竞赛中的应用

@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 附录 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster竞赛经验与教训分享

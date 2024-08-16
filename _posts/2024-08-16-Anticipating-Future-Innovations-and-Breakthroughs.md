@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 总结与展望 
-  - technology  
+  - 技术
 ---  
 
 # 期待未来的创新与突破：RoboMaster竞赛

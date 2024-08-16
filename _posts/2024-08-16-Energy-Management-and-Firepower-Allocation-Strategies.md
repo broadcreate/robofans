@@ -4,7 +4,7 @@ categories:
   - 算法设计  
 tags: 
   - 核心算法设计与实现 
-  - technology  
+  - 技术  
 ---  
 
 # 能量管理与火力分配策略在RoboMaster竞赛中的应用

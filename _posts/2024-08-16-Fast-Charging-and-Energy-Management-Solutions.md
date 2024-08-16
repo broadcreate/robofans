@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 动力与能源系统 
-  - technology  
+  - 技术  
 ---  
 
 # 快速充电与能源管理方案在RoboMaster竞赛中的应用

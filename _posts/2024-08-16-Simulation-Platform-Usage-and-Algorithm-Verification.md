@@ -4,7 +4,7 @@ categories:
   - 算法设计  
 tags: 
   - 性能优化与调试技巧 
-  - technology  
+  - 技术  
 ---  
 
 # Robomaster竞赛：仿真平台使用与算法验证

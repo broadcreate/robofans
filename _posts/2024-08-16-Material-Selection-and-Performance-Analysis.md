@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 基础概念与准备 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster竞赛中的材料选择与性能分析

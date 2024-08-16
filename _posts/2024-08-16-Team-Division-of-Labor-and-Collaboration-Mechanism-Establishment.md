@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 基础概念与准备 
-  - technology  
+  - 技术  
 ---  
 
 # 团队分工与协作机制建立

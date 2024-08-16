@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 机器人平台设计 
-  - technology  
+  - 技术  
 ---  
 
 # 精准度与射程提升策略：RoboMaster竞赛中的关键技术

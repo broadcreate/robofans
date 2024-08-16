@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 电机驱动与控制 
-  - technology  
+  - 技术  
 ---  
 
 RoboMaster竞赛是一项机器人竞技与学术交流平台，由全国大学生机器人大赛旗下赛事之一的RoboMaster机甲大师高校系列赛(RMU)主办。矢量控制和FOC技术是机器人运动控制中的重要技术，RoboMaster竞赛中也有相关的应用。

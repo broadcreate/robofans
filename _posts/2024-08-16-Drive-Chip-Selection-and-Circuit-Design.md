@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 电机驱动与控制 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster竞赛：驱动芯片选型与电路设计

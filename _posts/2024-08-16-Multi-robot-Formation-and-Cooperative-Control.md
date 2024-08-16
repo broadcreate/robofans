@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 通信与协作 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster:多机器人编队与协同控制

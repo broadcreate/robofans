@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 实战案例分析 
-  - technology  
+  - 技术
 ---  
 
 # RoboMaster竞赛：电控设计的亮点剖析

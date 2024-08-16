@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 总结与展望 
-  - technology  
+  - 技术
 ---  
 
 # 对参赛者的建议与寄语

@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 附录 
-  - technology  
+  - 技术
 ---  
 
 # RoboMaster竞赛：机器人技术的盛宴

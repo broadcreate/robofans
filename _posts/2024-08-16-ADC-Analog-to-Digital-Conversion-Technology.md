@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 传感器与数据采集 
-  - technology  
+  - 技术
 ---  
 
 RoboMaster竞赛是一项机器人竞技赛事，由大疆创新公司主办。ADC模数转换技术是一种将模拟信号转换为数字信号的技术。在RoboMaster竞赛中，ADC模数转换技术被广泛应用于机器人的控制和感知系统中。 

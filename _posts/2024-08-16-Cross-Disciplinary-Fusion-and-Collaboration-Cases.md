@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 创新设计与技术突破 
-  - technology  
+  - 技术
 ---  
 
 # RoboMaster竞赛：跨界融合与跨学科合作的典范

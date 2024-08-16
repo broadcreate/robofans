@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 附录 
-  - technology  
+  - 技术  
 ---  
 
 以下是一篇围绕RoboMaster竞赛的博客文章，所有技术都围绕RoboMaster竞赛展开，并且所有引用的内容都有来源   :

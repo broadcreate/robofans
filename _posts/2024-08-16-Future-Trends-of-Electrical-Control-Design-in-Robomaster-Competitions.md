@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 总结与展望 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster竞赛：电控设计的未来趋势

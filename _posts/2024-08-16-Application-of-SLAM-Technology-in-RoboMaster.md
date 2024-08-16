@@ -4,7 +4,7 @@ categories:
   - 算法设计  
 tags: 
   - 核心算法设计与实现 
-  - technology  
+  - 技术  
 ---  
 
 SLAM技术在RoboMaster竞赛中的应用非常广泛。SLAM(Simultaneous localization and mapping)是一种同时定位和建图的技术，它可以辅助机器人执行路径规划、自主探索、导航等任务。在RoboMaster竞赛中，SLAM技术可以用于机器人的定位和建图，从而实现机器人的自主导航。

@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 附录 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster竞赛：常见问题解答(FAQ)

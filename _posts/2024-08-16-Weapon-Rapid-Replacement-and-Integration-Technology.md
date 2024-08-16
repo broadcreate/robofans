@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 机器人平台设计 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster竞赛中的武器快速更换与集成技术

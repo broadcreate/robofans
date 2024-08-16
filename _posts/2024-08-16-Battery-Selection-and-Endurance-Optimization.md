@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 动力与能源系统 
-  - technology  
+  - 技术
 ---  
 
 # RoboMaster 竞赛中的电池选型与续航优化

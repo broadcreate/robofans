@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 机器人平台设计 
-  - technology  
+  - 技术  
 ---  
 
 # RoboMaster: 武器系统设计

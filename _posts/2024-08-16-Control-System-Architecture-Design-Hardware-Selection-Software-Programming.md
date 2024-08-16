@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 传感器与控制系统集成 
-  - technology  
+  - 技术
 ---  
 
 # RoboMaster竞赛中的控制系统架构设计

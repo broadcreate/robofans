@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 传感器与控制系统集成 
-  - technology  
+  - 技术  
 ---  
 
 # 实时数据传输与反馈机制在Robomaster竞赛中的应用

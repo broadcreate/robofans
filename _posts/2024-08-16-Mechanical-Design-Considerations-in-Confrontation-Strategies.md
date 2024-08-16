@@ -4,7 +4,7 @@ categories:
   - 机械设计  
 tags: 
   - 实战策略与战术应用 
-  - technology  
+  - 技术  
 ---  
 
 标题：对抗策略中的机械设计考量

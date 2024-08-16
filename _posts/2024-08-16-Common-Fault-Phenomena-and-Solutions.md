@@ -4,7 +4,7 @@ categories:
   - 电控设计  
 tags: 
   - 安全保护与故障排查 
-  - technology  
+  - 技术
 ---  
 
 # RoboMaster竞赛常见故障现象与解决方案
