@@ -1,7 +1,7 @@
 ---
 title: "RoboMaster赛事概览：全球科技爱好者的盛宴"
 categories:
-  - review
+  - 综述
 tags:
   - review
   - technology
