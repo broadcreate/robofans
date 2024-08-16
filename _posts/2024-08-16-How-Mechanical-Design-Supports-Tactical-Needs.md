@@ -1,7 +1,7 @@
 ---  
 title: "机械设计如何支持战术需求"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 实战策略与战术应用 
   - technology  

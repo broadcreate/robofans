@@ -1,7 +1,7 @@
 ---  
 title: "电池选型与续航优化"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 动力与能源系统 
   - technology  

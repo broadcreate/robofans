@@ -1,7 +1,7 @@
 ---  
 title: "机械设计常用资源推荐"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 附录 
   - technology  

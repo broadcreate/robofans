@@ -1,7 +1,7 @@
 ---  
 title: "期待未来的创新与突破"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 总结与展望 
   - technology  

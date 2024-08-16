@@ -1,7 +1,7 @@
 ---  
 title: "自动化与智能控制策略应用"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 传感器与控制系统集成 
   - technology  

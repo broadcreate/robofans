@@ -1,7 +1,7 @@
 ---  
 title: "对参赛者的建议与寄语"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 总结与展望 
   - technology  

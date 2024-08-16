@@ -1,7 +1,7 @@
 ---  
 title: "跨界融合与跨学科合作案例"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 创新设计与技术突破 
   - technology  

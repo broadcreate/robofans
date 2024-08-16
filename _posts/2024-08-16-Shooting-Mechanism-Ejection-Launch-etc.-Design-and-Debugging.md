@@ -1,7 +1,7 @@
 ---  
 title: "射击机构（弹射、发射等）设计与调试"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 机器人平台设计 
   - technology  

@@ -1,7 +1,7 @@
 ---  
 title: "传感器选型与布局（如红外、激光、视觉等）"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 传感器与控制系统集成 
   - technology  

@@ -1,7 +1,7 @@
 ---  
 title: "动力分配与节能策略"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 动力与能源系统 
   - technology  

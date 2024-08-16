@@ -1,7 +1,7 @@
 ---  
 title: "实时数据传输与反馈机制"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 传感器与控制系统集成 
   - technology  

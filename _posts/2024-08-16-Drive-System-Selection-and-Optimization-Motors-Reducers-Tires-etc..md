@@ -1,7 +1,7 @@
 ---  
 title: "驱动系统选择与优化（电机、减速器、轮胎等）"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 机器人平台设计 
   - technology  

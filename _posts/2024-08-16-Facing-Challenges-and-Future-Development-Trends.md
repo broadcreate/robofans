@@ -1,7 +1,7 @@
 ---  
 title: "面临的挑战与未来发展趋势"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 总结与展望 
   - technology  

@@ -1,7 +1,7 @@
 ---  
 title: "快速充电与能源管理方案"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 动力与能源系统 
   - technology  

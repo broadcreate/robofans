@@ -1,7 +1,7 @@
 ---  
 title: "维修与保养便捷性设计"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 实战策略与战术应用 
   - technology  

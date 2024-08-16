@@ -1,7 +1,7 @@
 ---  
 title: "新型材料与技术应用探索"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 创新设计与技术突破 
   - technology  

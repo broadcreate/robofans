@@ -1,7 +1,7 @@
 ---  
 title: "场地适应性与灵活性提升"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 实战策略与战术应用 
   - technology  

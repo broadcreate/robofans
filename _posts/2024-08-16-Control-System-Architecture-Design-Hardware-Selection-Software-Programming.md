@@ -1,7 +1,7 @@
 ---  
 title: "控制系统架构设计（硬件选型、软件编程）"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 传感器与控制系统集成 
   - technology  

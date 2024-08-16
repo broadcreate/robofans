@@ -1,7 +1,7 @@
 ---  
 title: "精准度与射程提升策略"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 机器人平台设计 
   - technology  

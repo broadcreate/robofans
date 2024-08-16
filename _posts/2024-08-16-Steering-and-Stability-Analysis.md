@@ -1,7 +1,7 @@
 ---  
 title: "转向与稳定性分析"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 机器人平台设计 
   - technology  

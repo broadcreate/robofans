@@ -1,7 +1,7 @@
 ---  
 title: "对抗策略中的机械设计考量"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 实战策略与战术应用 
   - technology  

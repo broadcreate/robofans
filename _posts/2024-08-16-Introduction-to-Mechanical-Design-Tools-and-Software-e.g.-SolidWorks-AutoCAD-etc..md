@@ -1,7 +1,7 @@
 ---  
 title: "机械设计工具与软件介绍（如SolidWorks, AutoCAD等）"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 基础概念与准备 
   - technology  

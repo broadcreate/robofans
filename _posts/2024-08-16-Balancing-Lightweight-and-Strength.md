@@ -1,7 +1,7 @@
 ---  
 title: "轻量化与强度平衡"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 机器人平台设计 
   - technology  

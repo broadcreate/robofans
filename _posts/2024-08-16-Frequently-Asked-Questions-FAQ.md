@@ -1,7 +1,7 @@
 ---  
 title: "常见问题解答（FAQ）"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 附录 
   - technology  

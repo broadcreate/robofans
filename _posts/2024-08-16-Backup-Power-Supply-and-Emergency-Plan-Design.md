@@ -1,7 +1,7 @@
 ---  
 title: "备用电源与应急方案设计"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 动力与能源系统 
   - technology  

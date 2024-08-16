@@ -1,7 +1,7 @@
 ---  
 title: "悬挂与减震系统设计"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 机器人平台设计 
   - technology  

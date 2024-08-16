@@ -1,7 +1,7 @@
 ---  
 title: "竞赛经验与教训分享"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 附录 
   - technology  

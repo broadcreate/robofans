@@ -1,7 +1,7 @@
 ---  
 title: "竞赛规则解读与机械设计限制"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 基础概念与准备 
   - technology  

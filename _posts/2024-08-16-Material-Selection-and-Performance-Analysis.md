@@ -1,7 +1,7 @@
 ---  
 title: "材料选择与性能分析"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 基础概念与准备 
   - technology  

@@ -1,7 +1,7 @@
 ---  
 title: "机械设计在RoboMaster竞赛中的核心作用回顾"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 总结与展望 
   - technology  

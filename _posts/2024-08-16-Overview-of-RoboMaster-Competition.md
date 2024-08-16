@@ -1,7 +1,7 @@
 ---  
 title: "RoboMaster竞赛概述"  
 categories:  
-  - mechanical design  
+  - 机械设计  
 tags: 
   - 引言 
   - technology  
