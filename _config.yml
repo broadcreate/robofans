@@ -309,10 +309,11 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
+      comments: false# true
+      share: false
       related: true
       show_date: true
+      toc: true
 
   # _pages
   - scope:
