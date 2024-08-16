@@ -1,56 +1,62 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
+title: "条款与隐私政策"
 last_modified_at: 2024-08-10T12:42:38-04:00
 toc: true
 ---
 
-## Privacy Policy
-
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
-
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
-
-### Log Files
-
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
-
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
-
-All of this information is not linked to anything that is personally identifiable.
-
-### Cookies and Web Beacons
-
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
-
-#### Google Adsense
-
-Google Adsense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
-
-## Disclosure Policy
-
-I make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because I'll get a percentage of that sale.
-
-Currently I'm an affiliate for Amazon and Google Adsense.
-
-What this means for you:
-
-* I became an affiliate to earn revenue towards the costs of running and maintaining this website. Where I have direct control over which ads are served on this website I offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
-* I do not and will not recommend a product just for the sake of making money.
-* I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this website.
-* I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
-
-Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
+# robofans.org 条款与隐私政策  
+  
+## 条款声明  
+  
+### 欢迎来到robofans.org  
+  
+感谢您访问robofans.org（以下简称“本网站”或“网站”）。为了确保您的使用体验顺畅且安全，我们制定了以下条款（以下简称“条款”）。在使用本网站之前，请仔细阅读并理解这些条款。使用本网站即表示您同意受这些条款的约束。  
+  
+### 1. 网站使用  
+  
+- **合法使用**：您承诺以合法、合规的方式使用本网站，不得进行任何违法、侵犯他人权益或干扰网站正常运行的活动。  
+- **内容准确性**：本网站力求提供准确、及时的信息，但不对内容的准确性、完整性或适用性作任何明示或暗示的保证。  
+- **用户内容**：用户在本网站发布的内容（包括但不限于评论、图片、视频等）需遵守法律法规，不得包含色情、暴力、诽谤、侵犯隐私等违法或不良信息。  
+  
+### 2. 知识产权  
+  
+- 本网站及其上所有内容（包括但不限于文字、图片、音频、视频、软件、标志、域名、数据库等）均受版权、商标、专利或其他知识产权法律的保护。未经本网站明确书面许可，任何个人或组织不得擅自复制、修改、展示、分发、出售或以其他方式使用本网站内容。  
+  
+### 3. 免责声明  
+  
+- 本网站不对任何因使用本网站内容、服务或链接到其他网站而导致的直接、间接、偶然、特殊或惩罚性损害负责。  
+- 本网站不保证服务的持续、无中断或无错误，且保留随时更改、暂停或终止服务的权利，无需事先通知。  
+  
+### 4. 修改与终止  
+  
+- 本网站有权随时修改这些条款，修改后的条款将在本网站公布并立即生效。您应定期查看这些条款以了解任何更改。  
+- 如您违反这些条款，本网站有权立即终止您的访问权限，并保留追究法律责任的权利。  
+  
+## 隐私政策  
+  
+### 尊重用户隐私  
+  
+robofans.org尊重并保护每位用户的隐私权。我们承诺在收集、使用、存储和共享您的个人信息时，将严格遵守相关法律法规，并采取适当的安全措施来保护您的隐私。  
+  
+### 信息的收集与使用  
+  
+- **注册信息**：当您注册成为本网站用户时，我们可能会收集您的姓名、邮箱地址、密码等基本信息。这些信息将用于验证您的身份、提供服务和与您沟通。  
+- **日志信息**：为了网站的正常运行和优化，我们可能会收集您的访问日志，包括IP地址、访问时间、访问页面等。这些信息将仅用于统计分析，不会用于识别您的个人身份。  
+- **Cookie与跟踪技术**：我们可能会使用Cookie和类似技术来追踪您的浏览行为，以便提供更个性化的服务和内容。您可以通过浏览器设置来禁用Cookie，但这可能会影响网站的部分功能。  
+  
+### 信息的共享与披露  
+  
+- 我们不会将您的个人信息出售给第三方，除非在以下情况下：  
+  - 事先得到您的明确同意；  
+  - 根据法律法规或政府主管部门的要求；  
+  - 为了维护公共安全或公共利益；  
+  - 与我们的合作伙伴共享，以便他们为您提供服务（但我们将要求他们遵守严格的保密义务）。  
+  
+### 安全措施  
+  
+- 我们将采取合理的物理、电子和管理措施来保护您的个人信息，防止其被未经授权的访问、泄露、篡改或销毁。  
+  
+### 联系方式  
+  
+如果您对本隐私政策有任何疑问或建议，请通过[联系我们](mailto:support@robofans.org)页面与我们联系。
