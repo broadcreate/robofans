@@ -1,0 +1,13 @@
+---  
+title: "电控设计相关资源推荐"  
+categories:  
+  - electronics design  
+tags: 
+  - 附录 
+  - technology  
+---  
+
+RoboMaster竞赛是一个机器人对抗比赛，电控设计是其中的重要部分。以下是一些关于RoboMaster竞赛电控设计的资源推荐：
+
+- RoboMaster电控组开发框架开源 ,支持单板/双板(可以扩展至多板，如工程车等)控制，分为bsp支持(对STM32 HAL的封装)、module(各个模块如电机/imu/oled/裁判系统/视觉通信等)、application(机器人应用，即单个完整机构，底盘/云台/发射等) 。
+- 浙江大学翁恺老师的《C语言程序设计》和《C语言程序设计进阶》，讲解清晰细致，习题量和难度也适中，在中国大学mooc、网易云课堂等主流中文mooc网站均能找到。 
