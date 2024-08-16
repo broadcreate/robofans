@@ -29,10 +29,7 @@ toc: true
 - 可持续发展与环保：RoboFans 机器人组深知可持续发展的重要性，因此在产品研发和生产过程中，始终坚持绿色、低碳、环保的原则。他们积极采用节能材料，优化能源利用效率，并致力于开发能够参与环保任务的机器人，如垃圾分类机器人、环境监测机器人等，为地球环境的保护贡献一份力量。
 - 开放合作与社区建设：RoboFans 重视与国内外科研机构、高校及企业的交流合作，通过共建实验室、联合研发项目等方式，推动机器人技术的共同进步。同时，他们还积极构建机器人爱好者社区，分享技术成果，举办比赛和活动，激发更多人对机器人技术的兴趣和热情，为行业的持续发展培养后备力量。
 
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
+[header-image-post]: {{ "" | relative_url }}{% post_url 2024-08-12-post-RoboMater-review %}
 [sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
 [categories-archive]: {{ "/categories/" | relative_url }}
 [tags-archive]: {{ "/tags/" | relative_url }}
