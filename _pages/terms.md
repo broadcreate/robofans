@@ -1,12 +1,10 @@
 ---
 permalink: /terms/
-title: "条款与隐私政策"
+title: "robofans.org 条款与隐私政策"
 last_modified_at: 2024-08-10T12:42:38-04:00
 toc: true
 ---
 
-# robofans.org 条款与隐私政策  
-  
 ## 条款声明  
   
 ### 欢迎来到robofans.org  
