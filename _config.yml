@@ -116,7 +116,7 @@ author:
   avatar: "/assets/images/Icon/web/icon-512.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "The RoboFans Team."
   location: "Chongqing, PRC"
-  email: "robo@robofans.org"
+  email: 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
