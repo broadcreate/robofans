@@ -1,7 +1,7 @@
 ---  
 title: "数据滤波与去噪方法"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 传感器与数据采集 
   - technology  

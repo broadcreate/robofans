@@ -1,7 +1,7 @@
 ---  
 title: "WiFi、蓝牙、Zigbee等协议对比"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 通信与协作 
   - technology  

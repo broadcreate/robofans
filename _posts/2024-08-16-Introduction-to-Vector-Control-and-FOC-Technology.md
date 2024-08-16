@@ -1,7 +1,7 @@
 ---  
 title: "矢量控制与FOC技术简介"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 电机驱动与控制 
   - technology  

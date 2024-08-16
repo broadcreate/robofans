@@ -1,7 +1,7 @@
 ---  
 title: "驱动芯片选型与电路设计"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 电机驱动与控制 
   - technology  

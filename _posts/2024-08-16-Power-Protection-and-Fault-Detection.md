@@ -1,7 +1,7 @@
 ---  
 title: "电源保护与故障检测"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 电控系统基础 
   - technology  

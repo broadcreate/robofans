@@ -1,7 +1,7 @@
 ---  
 title: "突发状况应对经验"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 实战案例分析 
   - technology  

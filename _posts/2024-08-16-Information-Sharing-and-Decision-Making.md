@@ -1,7 +1,7 @@
 ---  
 title: "信息共享与决策制定"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 通信与协作 
   - technology  

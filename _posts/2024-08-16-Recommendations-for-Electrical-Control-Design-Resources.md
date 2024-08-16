@@ -1,7 +1,7 @@
 ---  
 title: "电控设计相关资源推荐"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 附录 
   - technology  

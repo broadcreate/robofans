@@ -1,7 +1,7 @@
 ---  
 title: "经典电控策略分享"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 实战案例分析 
   - technology  

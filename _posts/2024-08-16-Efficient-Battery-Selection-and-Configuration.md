@@ -1,7 +1,7 @@
 ---  
 title: "高效电池选择与配置"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 电控系统基础 
   - technology  

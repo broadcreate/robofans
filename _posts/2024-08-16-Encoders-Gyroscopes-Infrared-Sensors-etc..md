@@ -1,7 +1,7 @@
 ---  
 title: "编码器、陀螺仪、红外传感器等"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 传感器与数据采集 
   - technology  

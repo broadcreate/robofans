@@ -1,7 +1,7 @@
 ---  
 title: "传感器选型与布局考量"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 传感器与数据采集 
   - technology  

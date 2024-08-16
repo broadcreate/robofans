@@ -1,7 +1,7 @@
 ---  
 title: "电控设计在竞赛中的重要性"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 引言 
   - technology  

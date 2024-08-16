@@ -1,7 +1,7 @@
 ---  
 title: "术语解释与缩写对照表"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 附录 
   - technology  

@@ -1,7 +1,7 @@
 ---  
 title: "常见故障现象与解决方案"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 安全保护与故障排查 
   - technology  

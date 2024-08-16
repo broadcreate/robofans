@@ -1,7 +1,7 @@
 ---  
 title: "实时数据处理与反馈机制"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 传感器与数据采集 
   - technology  

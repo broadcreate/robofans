@@ -1,7 +1,7 @@
 ---  
 title: "PID控制原理与实践"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 电机驱动与控制 
   - technology  

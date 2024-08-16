@@ -1,7 +1,7 @@
 ---  
 title: "电压转换与分配策略"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 电控系统基础 
   - technology  

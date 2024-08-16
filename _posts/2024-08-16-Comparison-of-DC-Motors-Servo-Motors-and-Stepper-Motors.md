@@ -1,7 +1,7 @@
 ---  
 title: "直流电机、伺服电机、步进电机对比"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 电机驱动与控制 
   - technology  

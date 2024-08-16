@@ -1,7 +1,7 @@
 ---  
 title: "中央处理器(CPU/MCU)选型"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 电控系统基础 
   - technology  

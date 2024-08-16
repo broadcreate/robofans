@@ -1,7 +1,7 @@
 ---  
 title: "远程通信平台搭建"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 通信与协作 
   - technology  

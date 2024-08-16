@@ -1,7 +1,7 @@
 ---  
 title: "获奖队伍电控设计亮点剖析"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 实战案例分析 
   - technology  

@@ -1,7 +1,7 @@
 ---  
 title: "电机参数匹配与性能优化"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 电机驱动与控制 
   - technology  

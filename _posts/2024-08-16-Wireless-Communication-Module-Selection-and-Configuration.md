@@ -1,7 +1,7 @@
 ---  
 title: "无线通信模块选型与配置"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 通信与协作 
   - technology  

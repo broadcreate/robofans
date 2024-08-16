@@ -1,7 +1,7 @@
 ---  
 title: "多机器人编队与协同控制"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 通信与协作 
   - technology  

@@ -1,7 +1,7 @@
 ---  
 title: "电控设计在Robomaster竞赛中的未来趋势"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 总结与展望 
   - technology  

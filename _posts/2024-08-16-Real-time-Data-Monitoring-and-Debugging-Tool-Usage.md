@@ -1,7 +1,7 @@
 ---  
 title: "实时数据监控与调试工具使用"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 通信与协作 
   - technology  

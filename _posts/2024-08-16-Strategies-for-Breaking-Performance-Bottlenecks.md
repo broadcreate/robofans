@@ -1,7 +1,7 @@
 ---  
 title: "性能瓶颈突破策略"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 实战案例分析 
   - technology  

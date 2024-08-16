@@ -1,7 +1,7 @@
 ---  
 title: "故障树分析法应用"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 安全保护与故障排查 
   - technology  

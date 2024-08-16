@@ -1,7 +1,7 @@
 ---  
 title: "过流、过压、过热保护机制"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 安全保护与故障排查 
   - technology  

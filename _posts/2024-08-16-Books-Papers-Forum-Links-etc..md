@@ -1,7 +1,7 @@
 ---  
 title: "书籍、论文、论坛链接等"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 附录 
   - technology  

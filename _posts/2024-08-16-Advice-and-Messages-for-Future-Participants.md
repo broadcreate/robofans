@@ -1,7 +1,7 @@
 ---  
 title: "对未来参赛者的建议与寄语"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 总结与展望 
   - technology  

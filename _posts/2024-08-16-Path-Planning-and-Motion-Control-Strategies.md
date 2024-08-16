@@ -1,7 +1,7 @@
 ---  
 title: "路径规划与运动控制策略"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 电机驱动与控制 
   - technology  

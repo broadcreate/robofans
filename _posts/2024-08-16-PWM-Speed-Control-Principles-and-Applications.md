@@ -1,7 +1,7 @@
 ---  
 title: "PWM调速原理与应用"  
 categories:  
-  - electronics design  
+  - 电控设计  
 tags: 
   - 电机驱动与控制 
   - technology  
