@@ -1,7 +1,7 @@
 ---  
 title: "定位与导航算法"  
 categories:  
-  - algorithms  
+  - 算法设计  
 tags: 
   - 核心算法设计与实现 
   - technology  

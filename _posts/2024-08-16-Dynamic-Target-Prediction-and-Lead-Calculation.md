@@ -1,7 +1,7 @@
 ---  
 title: "动态目标预测与提前量计算"  
 categories:  
-  - algorithms  
+  - 算法设计  
 tags: 
   - 核心算法设计与实现 
   - technology  

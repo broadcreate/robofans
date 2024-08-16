@@ -1,7 +1,7 @@
 ---  
 title: "实时图像处理与优化"  
 categories:  
-  - algorithms  
+  - 算法设计  
 tags: 
   - 核心算法设计与实现 
   - technology  

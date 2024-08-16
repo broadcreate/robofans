@@ -1,7 +1,7 @@
 ---  
 title: "算法效率分析与优化策略"  
 categories:  
-  - algorithms  
+  - 算法设计  
 tags: 
   - 性能优化与调试技巧 
   - technology  

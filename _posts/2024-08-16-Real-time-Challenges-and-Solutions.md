@@ -1,7 +1,7 @@
 ---  
 title: "实时性挑战与解决方案"  
 categories:  
-  - algorithms  
+  - 算法设计  
 tags: 
   - 性能优化与调试技巧 
   - technology  

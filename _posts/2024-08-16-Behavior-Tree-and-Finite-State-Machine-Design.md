@@ -1,7 +1,7 @@
 ---  
 title: "行为树与有限状态机设计"  
 categories:  
-  - algorithms  
+  - 算法设计  
 tags: 
   - 核心算法设计与实现 
   - technology  

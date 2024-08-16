@@ -1,7 +1,7 @@
 ---  
 title: "多目标追踪与优先级排序"  
 categories:  
-  - algorithms  
+  - 算法设计  
 tags: 
   - 核心算法设计与实现 
   - technology  

@@ -1,7 +1,7 @@
 ---  
 title: "团队协同策略与通信协议"  
 categories:  
-  - algorithms  
+  - 算法设计  
 tags: 
   - 核心算法设计与实现 
   - technology  

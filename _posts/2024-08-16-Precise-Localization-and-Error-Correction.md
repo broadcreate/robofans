@@ -1,7 +1,7 @@
 ---  
 title: "精准定位与误差校正"  
 categories:  
-  - algorithms  
+  - 算法设计  
 tags: 
   - 核心算法设计与实现 
   - technology  

@@ -1,7 +1,7 @@
 ---  
 title: "射击精度提升算法"  
 categories:  
-  - algorithms  
+  - 算法设计  
 tags: 
   - 核心算法设计与实现 
   - technology  
