@@ -1,4 +1,3 @@
-
 ---  
 title: "竞赛规则解读与机械设计限制"  
 categories:  

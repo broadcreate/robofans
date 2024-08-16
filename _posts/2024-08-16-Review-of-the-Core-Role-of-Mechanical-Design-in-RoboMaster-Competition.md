@@ -1,4 +1,3 @@
-
 ---  
 title: "机械设计在RoboMaster竞赛中的核心作用回顾"  
 categories:  

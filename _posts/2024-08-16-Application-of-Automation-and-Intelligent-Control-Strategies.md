@@ -1,4 +1,3 @@
-
 ---  
 title: "自动化与智能控制策略应用"  
 categories:  

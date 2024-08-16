@@ -1,4 +1,3 @@
-
 ---  
 title: "机械设计在竞赛中的重要性"  
 categories:  
