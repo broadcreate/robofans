@@ -4,6 +4,10 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "首页"
     url: /
+  - title: "分类查看"
+    url: /categories/
+  - title: "标签查看"
+    url: /tags/
   - title: "关于"
     url: /about/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
@@ -11,7 +15,6 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  - title: "categories"
-    url: /categories/
-  - title: "Sitemap"
-    url: /sitemap/
+
+  #- title: "Sitemap"
+  #  url: /sitemap/
