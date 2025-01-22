@@ -31,7 +31,7 @@ masthead_title: "智能施工监测与控制" # overrides the website title disp
 breadcrumbs: true # true, false (default)
 words_per_minute: 10
 enable_copy_code_button: true # true, false (default)
-copyright: “Copyright 2025” # "copyright" name, defaults to site.title
+copyright: # "copyright" name, defaults to site.title
 copyright_url: # "copyright" URL, defaults to site.url
 comments:
   provider: # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
