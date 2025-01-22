@@ -45,7 +45,7 @@ toc: true
 
 ## 相关链接
 
-- [RoboMaster](https://www.robomaster.com/)
+- [RoboMaster](https://www.robofans.com/)
 
 ---
 
