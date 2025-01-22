@@ -19,15 +19,15 @@ locale: "zh-CN"
 rtl: # true, false (default) # turns direction of the page into right to left for RTL languages
 title: "RoboFans"
 title_separator: "-"
-subtitle: "基于视觉与智能技术的施工监测与控制解决方案"
-name: "智能施工监测"
-description: "展示创新的智能施工监测与控制系统，包括安全监测、粒径分析与料仓余料测量，为高速公路建设与施工现场提供实时监测和数据支持，推动智能化与安全管理的进步。"
+subtitle: "基于视觉与智能技术的工业监测与控制解决方案"
+name: "智能监测与控制"
+description: "展示创新的智能工业监测与控制系统，包括安全监测、粒径分析与料仓余料测量，为高速公路建设与工业现场提供实时监测和数据支持，推动智能化与安全管理的进步。"
 url: https://www.robofans.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: "/assets/images/Icon/web/icon-512.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/assets/images/Icon/web/icon-512.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: "智能施工监测与控制" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title: "智能工业监测与控制" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs: true # true, false (default)
 words_per_minute: 10
 enable_copy_code_button: true # true, false (default)
@@ -112,9 +112,9 @@ analytics:
 
 # Site Author
 author:
-  name: "智能施工监测团队"
+  name: "智能工业监测团队"
   avatar: "/assets/images/Icon/web/icon-512.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "专注于智能化施工现场监测与控制技术的研发与应用，推动建设行业的智能化与安全管理。"
+  bio: "专注于智能化工业现场监测与控制技术的研发与应用，推动建设行业的智能化与安全管理。"
   location: "Chongqing, PRC"
   email:
   links:
@@ -137,8 +137,8 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 project_1:
-  title: "施工现场监测系统"
-  description: "基于视觉技术的智能施工现场监测系统，能够实时检测是否佩戴安全帽、是否穿着反光衣以及机械臂是否越界。系统通过视频监控与图像识别，确保施工安全并减少意外风险。"
+  title: "工业现场监测系统"
+  description: "基于视觉技术的智能工业现场监测系统，能够实时检测是否佩戴安全帽、是否穿着反光衣以及机械臂是否越界。系统通过视频监控与图像识别，确保工业安全并减少意外风险。"
   features:
     - "实时安全帽佩戴检测"
     - "实时反光衣穿戴监测"
@@ -147,7 +147,7 @@ project_1:
 
 project_2:
   title: "粒径视觉分析系统"
-  description: "高速公路建设中的路基摊铺粒径合规监测系统，利用视觉分析技术实时监控粒径，确保路基建设符合标准。系统为施工过程提供即时反馈，帮助优化施工质量。"
+  description: "高速公路建设中的路基摊铺粒径合规监测系统，利用视觉分析技术实时监控粒径，确保路基建设符合标准。系统为工业过程提供即时反馈，帮助优化工业质量。"
   features:
     - "实时粒径合规监测"
     - "高速公路建设过程中的质量控制"
@@ -156,7 +156,7 @@ project_2:
 
 project_3:
   title: "料仓颗粒料余料测量系统"
-  description: "一种基于传感器和图像处理技术的实时料仓颗粒料余料测量系统，通过实时数据采集与分析，提供精确的余料量监测，支持施工现场的物料管理与调度。"
+  description: "一种基于传感器和图像处理技术的实时料仓颗粒料余料测量系统，通过实时数据采集与分析，提供精确的余料量监测，支持工业现场的物料管理与调度。"
   features:
     - "实时料仓余料测量"
     - "颗粒料物料管理优化"
