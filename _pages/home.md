@@ -10,7 +10,7 @@ header:
       url: "/about/"
 excerpt: >
   智能工业监测与控制技术，利用创新设计与先进算法，推动工业现场安全管理、工业质量监控以及资源优化配置，提升工程效率与安全性。<br />
-  <small><a href="https://robomaster.com/zh-CN">智能工业监测与控制</a></small>
+  <small><a href="https://robofans.org">智能工业监测与控制</a></small>
 
 feature_row:
   - image_path: /assets/images/Designer1.jpeg
